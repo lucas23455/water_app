@@ -13,4 +13,10 @@
     <string name="dialog_titulo">Redefinir dados</string>
     <string name="dialog_desc">Deseja excluir todos os dados existentes?</string>
     <string name="alarme_mensagem">Hora de beber agua!!</string>
+
+
+
+    <string name="nome_app">FrescoApp</string>
+    <string name="nome_button">Iniciar</string>
+    <string name="nome_version">Version 3.0</string>
 </resources>
