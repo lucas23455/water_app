@@ -32,6 +32,12 @@
             android:name=".MainActivity"
             android:screenOrientation="portrait"
             android:exported="true"/>
+
+        <!-- Registrar a HistoricoActivity -->
+        <activity
+            android:name=".DicasActivity"
+            android:screenOrientation="portrait"
+            android:exported="true"/>
     </application>
 
 </manifest>
